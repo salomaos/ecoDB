@@ -1,5 +1,7 @@
 {
   "User": {
-    "title": { "string": {} }
+    "name": "Jorge",
+    "registration": "00990099",
+    "password": "123"
   }
 }
