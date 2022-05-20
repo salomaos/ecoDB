@@ -1,7 +1,5 @@
 {
   "User": {
-    "name": "Jorge",
-    "registration": "00990099",
-    "password": "123"
+    "name": {"string":"Jorge"}
   }
 }
