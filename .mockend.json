@@ -1,6 +1,11 @@
 {
-  "User": {
-    "nome": {
+  "Operadores": {
+    "CD_OPERADOR_SISTEMA": {
+      "int": [
+        15465
+      ]
+    },
+    "NM_OPERADOR": {
       "string": [
         "Diogo Fogaça",
         "Rodrigo Rocha",
@@ -9,6 +14,11 @@
         "Fernanda Gonçalves",
         "Polatto",
         "Fabricio Braz"
+      ]
+    },
+    "NM_MATRICULA": {
+      "string": [
+        "ADMINISTRADOR"
       ]
     },
     "matricula": {
@@ -21,6 +31,43 @@
     "senha": {
       "int": [
         123
+      ]
+    }
+  },
+  "Pistas": {
+    "CD_PISTA": {
+      "int": {
+        "min": 100,
+        "max": 999
+      }
+    },
+    "NM_PISTA": {
+      "string": [
+        "11",
+        "22",
+        "33",
+        "44",
+        "55",
+        "66",
+        "77",
+        "88",
+        "99"
+      ]
+    },
+    "CD_PRACA": {
+      "int": {
+        "min": 10,
+        "max": 99
+      }
+    },
+    "NM_PRACA": {
+      "string": [
+        "Itaquaquecetuba"
+      ]
+    },
+    "IP_PISTA": {
+      "string": [
+        "https://mockend.com/salomaos/ecoDB"
       ]
     }
   }
