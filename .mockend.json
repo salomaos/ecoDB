@@ -21,17 +21,20 @@
         "ADMINISTRADOR"
       ]
     },
-    "matricula": {
+    "MATRICULA": {
       "string": [
         "M123",
         "M456",
         "M789"
       ]
     },
-    "senha": {
+    "SENHA": {
       "int": [
         123
       ]
+    },
+    "Pista": {
+      "hasMany": "Pista"
     }
   },
   "Pista": {
