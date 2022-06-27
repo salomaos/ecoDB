@@ -1,5 +1,5 @@
 {
-  "Operadores": {
+  "Operador": {
     "CD_OPERADOR_SISTEMA": {
       "int": [
         15465
@@ -34,7 +34,7 @@
       ]
     }
   },
-  "Pistas": {
+  "Pista": {
     "CD_PISTA": {
       "int": {
         "min": 100,
