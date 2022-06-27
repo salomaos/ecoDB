@@ -1,5 +1,14 @@
 {
   "User": {
-    "name": {"string":["Jorge"]}
+    "name": {
+      "string": [
+        "Jorge"
+      ]
+    },
+    "password": {
+      "int": [
+        123
+      ]
+    }
   }
 }
