@@ -1,15 +1,22 @@
 {
   "User": {
-    "name": {
+    "nome": {
       "string": [
-        "Jorge Freitas",
+        "Diogo Fogaça",
         "Rodrigo Rocha",
         "Marta Romeiro",
         "Salomão Santana",
-        "Fernanda Gonçalves"
+        "Fernanda Gonçalves",
+        "Polatto",
+        "Fabricio Braz"
       ]
     },
-    "password": {
+    "matricula": {
+      "string": [
+        "M123"
+      ]
+    },
+    "senha": {
       "int": [
         123
       ]
