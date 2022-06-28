@@ -2,7 +2,13 @@
   "Operadore": {
     "CD_OPERADOR_SISTEMA": {
       "int": [
-        15465
+        15465,
+        15466,
+        15467,
+        15468,
+        15469,
+        15470,
+        15471
       ]
     },
     "NM_OPERADOR": {
@@ -33,14 +39,11 @@
         123
       ]
     },
-    "Pistas": {
-      "array": [
-        {
-          "Test": {
-            "string": "Teste"
-          }
-        }
-      ]
+    "PISTA_OPERADOR": {
+      "int": {
+        "min": 100,
+        "max": 999
+      }
     }
   },
   "Pista": {
@@ -77,6 +80,17 @@
     "IP_PISTA": {
       "string": [
         "https://mockend.com/salomaos/ecoDB"
+      ]
+    },
+    "OPERADOR_PISTA": {
+      "int": [
+        15465,
+        15466,
+        15467,
+        15468,
+        15469,
+        15470,
+        15471
       ]
     }
   }
