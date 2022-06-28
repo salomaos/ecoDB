@@ -33,13 +33,15 @@
         123
       ]
     },
-    "Pistas": [
-      {
-        "Test": {
-          "string": "Teste"
+    "Pistas": {
+      "array": [
+        {
+          "Test": {
+            "string": "Teste"
+          }
         }
-      }
-    ]
+      ]
+    }
   },
   "Pista": {
     "CD_PISTA": {
