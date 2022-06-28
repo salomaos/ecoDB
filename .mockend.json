@@ -32,7 +32,14 @@
       "int": [
         123
       ]
-    }
+    },
+    "Pistas": [
+      {
+        "Test": {
+          "string": "Teste"
+        }
+      }
+    ]
   },
   "Pista": {
     "CD_PISTA": {
